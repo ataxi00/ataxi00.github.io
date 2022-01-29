@@ -1,2 +1,1 @@
-# ataxi00.github.io
-website
+Ata Deniz Uzun 
